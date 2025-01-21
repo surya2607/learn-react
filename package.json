@@ -1,0 +1,26 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "This is learning project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya2607/learn-react.git"
+  },
+  "keywords": [
+    "react",
+    "practice"
+  ],
+  "author": "Suryakant Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surya2607/learn-react/issues"
+  },
+  "homepage": "https://github.com/surya2607/learn-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
